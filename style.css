@@ -1,15 +1,19 @@
 body {
   font-family: "Open Sans", sans-serif;
   background-color: aliceblue;
-  background-image: url(Fon.png);
+  background-image: url(Fon.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto;
   background-attachment: fixed;
+  
 }
 
-p {
- align-content: center;
-  text-align: center;
-  
+#intro{
+color:white;
+background-color:black;
+}
+
+#menu{
+
 }
